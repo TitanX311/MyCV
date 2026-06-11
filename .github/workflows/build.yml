@@ -53,5 +53,5 @@ jobs:
       - name: Copy To Branches Action
         uses: planetoftheweb/copy-to-branches@v1.3
         env:
-          key: main
+          key: cisco-internship-2028
           files: index.html CNAME
